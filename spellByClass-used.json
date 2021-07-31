@@ -1,0 +1,424 @@
+{
+  "Bardo": {
+    "zero": [
+      "Raio de Gelo",
+      "Consertar",
+      "Globos de Luz",
+      "Ilusão Menor",
+      "Zombaria Viciosa"
+    ],
+
+    "one" : [
+      "Curar Ferimentos",
+      "Falar com Animais",
+      "Onda Trovejante",
+      "Sono",
+      "Sussurros Dissonantes"
+    ],
+
+    "two": [
+      "Cegueira/Surdez",
+      "Despedaçar",
+      "Nuvem de Adagas"
+    ]
+  },
+
+  "Bruxo": {
+    "zero": [
+      "amizade",
+      "ataque certeiro",
+      "ilusão menor",
+      "mãos mágicas",
+      "prestidigitação",
+      "proteção contra lâminas",
+      "rajada de veneno",
+      "rajada mística",
+      "toque arrepiante"
+    ],
+
+    "one": [
+      "armadura de agathys",
+      "braços de hadar",
+      "bruxaria",
+      "compreender idiomas",
+      "enfeitiçar pessoa",
+      "escrita ilusória",
+      "proteção contra o bem e mal",
+      "raio de bruxa",
+      "recuo acelerado",
+      "repreensão infernal",
+      "servo invisível"
+    ],
+
+    "two": [
+      "cativar",
+      "coroa da loucura",
+      "Despedaçar",
+      "escuridão",
+      "imobilizar pessoa",
+      "invisibilidade",
+      "Nuvem de Adagas",
+      "passo nebuloso",
+      "patas de aranha",
+      "raio do enfraquecimento",
+      "reflexos",
+      "sugestão"
+    ]
+  },
+
+  "Clérigo": {
+    "zero":[
+      "chama sagrada",
+      "consertar",
+      "estabilizar",
+      "luz",
+      "orientação",
+      "resistência",
+      "taumaturgia"
+    ],
+
+    "one":[
+      "bênção",
+      "comando",
+      "criar ou destruir água",
+      "curar ferimentos",
+      "detectar magia",
+      "detectar o bem e mal",
+      "detectar veneno e doença",
+      "escudo da fé",
+      "infligir ferimentos",
+      "palavra curativa",
+      "perdição",
+      "proteção contra o bem e mal",
+      "purificar alimentos",
+      "raio guiador",
+      "santuário"
+    ],
+
+    "two": [
+      "acalmar emoções",
+      "ajuda",
+      "aprimorar habilidade",
+      "arma espiritual",
+      "augúrio",
+      "Cegueira/Surdez",
+      "chama contínua",
+      "encontrar armadilhas",
+      "imobilizar pessoa",
+      "localizar objeto",
+      "oração curativa",
+      "proteção contra veneno",
+      "repouso tranquilo",
+      "restauração menor",
+      "silêncio",
+      "vínculo protetor",
+      "zona da verdade"
+    ]
+  },
+
+  "Druida": {
+
+    "zero":[
+      "bordão místico",
+      "chicote de espinhos",
+      "consertar",
+      "criar chamas",
+      "druidismo",
+      "orientação",
+      "rajada de veneno",
+      "resistência"
+    ],
+
+    "one":[
+
+      "amizade animal",
+      "bom fruto",
+      "constrição",
+      "criar ou destruir água",
+      "curar ferimentos",
+      "detectar magia",
+      "detectar veneno e doença",
+      "enfeitiçar pessoa",
+      "Falar com Animais",
+      "fogo das fadas",
+      "névoa obscurecente",
+      "Onda Trovejante",
+      "palavra curativa",
+      "passos longos",
+      "purificar alimentos",
+      "salto"
+    ],
+
+    "two":[
+      "aprimorar habilidade",
+      "crescer espinhos",
+      "encontrar armadilhas",
+      "esfera flamejante",
+      "esquentar metal",
+      "imobilizar pessoa",
+      "lâmina flamejante",
+      "localizar animais ou plantas",
+      "localizar objeto",
+      "lufada de vento",
+      "mensageiro animal",
+      "passos sem pegadas",
+      "pele de árvore",
+      "proteção contra veneno",
+      "raio lunar",
+      "restauração menor",
+      "sentido bestial",
+      "visão no escuro"
+    ]
+
+  },
+
+  "Feiticeiro": {
+
+    "zero":[
+      "amizade",
+      "ataque certeiro",
+      "consertar",
+      "espirro ácido",
+      "globos de luz",
+      "ilusão menor",
+      "luz",
+      "mãos mágicas",
+      "mensagem",
+      "prestidigitação",
+      "proteção contra lâminas",
+      "raio de fogo",
+      "raio de gelo",
+      "rajada de veneno",
+      "toque arrepiante",
+      "toque chocante"
+    ],
+
+    "one":[
+      "armadura arcana",
+      "compreender idiomas",
+      "detectar magia",
+      "disfarçar-se",
+      "enfeitiçar pessoa",
+      "escudo arcano",
+      "imagem silenciosa",
+      "leque cromático",
+      "mãos flamejantes",
+      "mísseis mágicos",
+      "névoa obscurecente",
+      "Onda Trovejante",
+      "orbe cromática",
+      "queda suave",
+      "raio adoecente",
+      "raio de bruxa",
+      "recuo acelerado",
+      "Sono",
+      "salto",
+      "vitalidade falsa"
+    ],
+
+    "two": [
+      "alterar-se",
+      "aprimorar habilidade",
+      "arrombar",
+      "aumentar/reduzir",
+      "Cegueira/Surdez",
+      "coroa da loucura",
+      "Despedaçar",
+      "detectar pensamentos",
+      "escuridão",
+      "força fantasmagórica",
+      "imobilizar pessoa",
+      "invisibilidade",
+      "levitação",
+      "lufada de vento",
+      "nublar",
+      "Nuvem de Adagas",
+      "passo nebuloso",
+      "patas de aranha",
+      "raio ardente",
+      "reflexos",
+      "sugestão",
+      "teia",
+      "visão no escuro",
+      "ver o invisível"
+    ]
+  },
+
+  "Mago": {
+
+    "zero":[
+      "amizade",
+      "ataque certeiro",
+      "consertar",
+      "espirro ácido",
+      "globos de luz",
+      "ilusão menor",
+      "luz",
+      "mãos mágicas",
+      "mensagem",
+      "prestidigitação",
+      "proteção contra lâminas",
+      "raio de fogo",
+      "raio de gelo",
+      "rajada de veneno",
+      "toque arrepiante",
+      "toque chocante"
+    ],
+
+    "one":[
+      "alarme",
+      "área escorregadia",
+      "armadura arcana",
+      "compreender idiomas",
+      "convocar familiar",
+      "detectar magia",
+      "disco flutuante de tenser",
+      "disfarçar-se",
+      "enfeitiçar pessoa",
+      "escrita ilusória",
+      "escudo arcano",
+      "identificação",
+      "imagem silenciosa",
+      "leque cromático",
+      "mãos flamejantes",
+      "mísseis mágicos",
+      "névoa obscurecente",
+      "Onda Trovejante",
+      "orbe cromática",
+      "passos longos",
+      "proteção contra o bem e mal",
+      "queda suave",
+      "raio adoecente",
+      "raio de bruxa",
+      "recuo acelerado",
+      "riso histérico de tasha",
+      "salto",
+      "servo invisível",
+      "Sono",
+      "vitalidade falsa"
+    ],
+
+    "two":[
+      "alterar-se",
+      "arma mágica",
+      "arrombar",
+      "aumentar/reduzir",
+      "aura mágica de nystul",
+      "boca encantada",
+      "Cegueira/Surdez",
+      "chama contínua",
+      "coroa da loucura",
+      "Despedaçar",
+      "detectar pensamentos",
+      "escuridão",
+      "esfera flamejante",
+      "flecha ácida de melf",
+      "força fantasmagórica",
+      "imobilizar pessoa",
+      "invisibilidade",
+      "levitação",
+      "localizar objeto",
+      "lufada de vento",
+      "nublar",
+      "Nuvem de Adagas",
+      "passo nebuloso",
+      "patas de aranha",
+      "raio ardente",
+      "raio do enfraquecimento",
+      "reflexos",
+      "repouso tranquilo",
+      "sugestão",
+      "teia",
+      "tranca arcana",
+      "truque de corda",
+      "ver o invisível",
+      "visão no escuro"
+    ]
+  },
+
+  "Paladino": {
+
+    "zero":[
+      "auxílio divino",
+      "bênção",
+      "comando",
+      "curar ferimentos",
+      "destruição colérica",
+      "destruição lancinante",
+      "destruição trovejante",
+      "detectar o bem e mal",
+      "detectar magia",
+      "detectar veneno e doença",
+      "duelo compelido",
+      "escudo da fé",
+      "heroísmo",
+      "proteção contra o bem e mal",
+      "purificar alimentos"
+    ],
+
+    "one":[
+      "ajuda",
+      "arma mágica",
+      "convocar montaria",
+      "localizar objeto",
+      "marca da punição",
+      "proteção contra veneno",
+      "restauração menor",
+      "zona da verdade"
+    ],
+
+    "two":[
+      "arma elemental",
+      "aura de vitalidade",
+      "círculo mágico",
+      "criar alimentos",
+      "destruição cegante",
+      "dissipar magia",
+      "luz do dia",
+      "manto do cruzado",
+      "remover maldição",
+      "revivificar"
+    ]
+  },
+
+  "Patrulheiro": {
+
+    "zero":[
+      "Amizade Animal",
+      "Curar Ferimentos",
+      "Detectar Veneno e Doença",
+      "Falar com Animais",
+      "Golpe Constritor"
+    ],
+
+    "one":[
+      "Cordão de Flechas",
+      "Crescer Espinhos",
+      "Encontrar Armadilhas",
+      "Localizar Animais ou Plantas",
+      "Localizar Objeto",
+      "mensageiro animal",
+      "passos sem pegadas",
+      "pele de árvore",
+      "proteção contra veneno",
+      "restauração menor",
+      "sentido bestial",
+      "silêncio",
+      "visão no escuro"
+    ],
+
+    "two":[
+      "ampliar plantas",
+      "andar na água",
+      "conjurar animais",
+      "conjurar rajada",
+      "dificultar detecção",
+      "flecha relampejante",
+      "luz do dia",
+      "muralha de vento",
+      "proteção contra energia",
+      "respirar na água"
+    ]
+
+  }
+}
